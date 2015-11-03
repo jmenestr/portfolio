@@ -1,0 +1,50 @@
+#skills {
+  padding: 75px 0;
+}
+
+#skills  i {
+  font-size: 70px;
+}
+
+.devicon-row {
+  margin: 25px;
+}
+
+#team {
+  padding-top: 0px;
+}
+
+
+.portfolio-tech i {
+  font-size: 100px;
+}
+.portfolio-modal .modal-content img.flux_logo {
+  margin: 0;
+  vertical-align: inherit;
+
+}
+
+.flux {
+  display: inline-block;
+}
+
+.flux img.flux_logo {
+  margin: 0;
+  vertical-align: inherit;
+}
+
+.flux h4 {
+  margin: 0;
+}
+
+.contact {
+  display: inline-block;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.cf:after {
+  content: "";
+  clear: both;
+  display: block;
+}
