@@ -43,6 +43,10 @@
   font-weight: bold;
 }
 
+.resume {
+  margin: 20px 0;
+}
+
 .cf:after {
   content: "";
   clear: both;
